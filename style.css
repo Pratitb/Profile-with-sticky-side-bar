@@ -120,7 +120,7 @@ button.btn.btn-link.collapsed{
 }
 @media(max-width:767px){
 button.btn.btn-link.accordion-btn{
-  font-size:0.85em!important;
+  font-size:0.87em!important;
 }
 }
 div#accordion{
